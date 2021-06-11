@@ -1,0 +1,16 @@
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\bin\Debug\netcoreapp3.1\c sharp  form timed exam.exe
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\bin\Debug\netcoreapp3.1\c sharp  form timed exam.deps.json
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\bin\Debug\netcoreapp3.1\c sharp  form timed exam.runtimeconfig.json
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\bin\Debug\netcoreapp3.1\c sharp  form timed exam.runtimeconfig.dev.json
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\bin\Debug\netcoreapp3.1\c sharp  form timed exam.dll
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\bin\Debug\netcoreapp3.1\c sharp  form timed exam.pdb
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.csprojAssemblyReference.cache
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c_sharp__form_timed_exam.Form1.resources
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.csproj.GenerateResource.cache
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.AssemblyInfoInputs.cache
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.AssemblyInfo.cs
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.dll
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.pdb
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c sharp  form timed exam.genruntimeconfig.cache
+C:\Users\ferha\source\repos\c sharp  form timed exam\c sharp  form timed exam\obj\Debug\netcoreapp3.1\c_sharp__form_timed_exam.Properties.Resources.resources
